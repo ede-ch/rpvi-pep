@@ -1,0 +1,14 @@
+{
+  "name": "silverbullet-mcp",
+  "version": "1.0.0",
+  "description": "MCP server para acessar o Silver Bullet do PEP/RPVI",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "zod": "^3.23.0"
+  }
+}
