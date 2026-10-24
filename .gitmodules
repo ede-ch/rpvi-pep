@@ -1,0 +1,6 @@
+[submodule "pep-2026-rp-i"]
+	path = pep-2026-rp-i
+	url = https://gitlab.com/eumuno/pep-2026-rp-i.git
+[submodule "pep-2026-rp-i.wiki"]
+	path = pep-2026-rp-i.wiki
+	url = https://gitlab.com/eumuno/pep-2026-rp-i.wiki.git
