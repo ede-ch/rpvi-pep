@@ -1,3 +1,5 @@
 .env
 .claude/settings.local.json
 node_modules/
+silverbullet-mcp/index.js
+silverbullet-mcp/env.example
